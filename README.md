@@ -49,3 +49,7 @@ Here are two key moments from the analysis:
 📄 See the full analysis in [`sprint-02-project.ipynb`](./sprint-02-project.ipynb)  
 📄 Or view a static version in [`sprint-02-project.html`](./sprint-02-project.html)  
 📄 Project background: [`project-description.md`](./project-description.md)
+
+> Note: This project uses five CSV files, four of which are included in the `/data/` folder.  
+> The fifth file, `order_products.csv`, was omitted due to GitHub file size limits.  
+> See [`/data/README.md`](./data/README.md) for details.
