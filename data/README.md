@@ -1,8 +1,15 @@
 # Data Folder
 
-This project originally used one or more data files that exceeded GitHub’s upload size limit.
+This project originally used five CSV files:
 
-To maintain consistency across all projects, this folder represents where those files would normally be stored.
+- `order_products.csv` (not included — exceeds GitHub’s upload limit)
+- `departments.csv`
+- `aisles.csv`
+- `products.csv`
+- `instacart_orders.csv`
 
-If you're reviewing this project and would like access to the data, feel free to contact me.  
+Only `order_products.csv` is missing from this repository.  
+To maintain consistency across all projects, this folder represents where all data files are stored.
+
+If you're reviewing this project and would like access to the full dataset, feel free to contact me.  
 The dataset was originally provided through TripleTen for educational use.
